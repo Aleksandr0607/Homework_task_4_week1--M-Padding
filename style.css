@@ -46,3 +46,31 @@
   height: auto;
   line-height: 50px;
 }
+.second_paragraf {
+  margin-left: 138px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  width: 440px;
+  height: auto;
+  line-height: 30px;
+  color: #4f5665;
+}
+
+.list li {
+  list-style: none;
+  margin-left: 140px;
+  margin-top: 10px;
+  /* text-indent: 172.08px; */
+}
+
+.list li::before {
+  content: url(img/green.svg);
+}
+
+.first_list {
+  align-content: center;
+}
+/* li {
+    text-indent: 172.08px;
+} */
