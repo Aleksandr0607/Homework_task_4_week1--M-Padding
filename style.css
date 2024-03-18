@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+}
+.container {
+  margin-left: 145px;
+}
+.main_title {
+  font-size: 50px;
+  font-weight: 500;
+  width: 555px;
+  height: 140px;
+  line-height: 70px;
+  color: #0b132a;
+}
+.first_paragraf {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  width: 555px;
+  height: auto;
+  line-height: 30px;
+  color: #4f5665;
+}
+.button_top {
+  margin-top: 50px;
+  font-size: 16px;
+  font-weight: 700;
+  width: 250px;
+  height: auto;
+  line-height: 25px;
+  color: white;
+  background-color: #f53838;
+  padding: 17.5px 77.5px;
+  border-radius: 10px;
+}
+.sec_main_title {
+  margin-left: 138px;
+  margin-top: 58.23px;
+  font-size: 35px;
+  font-weight: 500;
+  width: 383.41px;
+  height: auto;
+  line-height: 50px;
+}
