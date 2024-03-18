@@ -16,6 +16,9 @@
   line-height: 70px;
   color: #0b132a;
 }
+.main_title span {
+  font-weight: 700;
+}
 .first_paragraf {
   margin-top: 20px;
   font-size: 16px;
@@ -61,16 +64,13 @@
   list-style: none;
   margin-left: 140px;
   margin-top: 10px;
-  /* text-indent: 172.08px; */
 }
 
 .list li::before {
   content: url(img/green.svg);
+  vertical-align: middle;
 }
 
-.first_list {
-  align-content: center;
+li span {
+  margin-left: 3px;
 }
-/* li {
-    text-indent: 172.08px;
-} */
