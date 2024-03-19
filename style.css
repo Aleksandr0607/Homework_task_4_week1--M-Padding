@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
   font-style: normal;
+   list-style: none;
 }
 .container {
   margin-left: 145px;
@@ -61,7 +62,7 @@
 }
 
 .list li {
-  list-style: none;
+
   margin-left: 140px;
   margin-top: 10px;
 }
