@@ -35,17 +35,11 @@
   height: auto;
   line-height: 30px;
   color: #4f5665;
-  margin-bottom: 50px;
+  margin-bottom: 65px;
 }
 
-a {
-  color: white;
-}
-
-.btn_1 {
+.btn_1 .f_btn {
   font-size: 16px;
-  width: 250px;
-  height: 60px;
   line-height: 25px;
   color: white;
   background-color: #f53838;
@@ -60,7 +54,7 @@ a {
 }
 
 .sec_main_title {
-  margin-top: 58.23px;
+  margin-top: 73.23px;
   font-size: 35px;
   font-weight: 500;
   width: 383.41px;
