@@ -35,17 +35,22 @@
   height: auto;
   line-height: 30px;
   color: #4f5665;
-  margin-bottom: 65px;
+  margin-bottom: 50px;
 }
-
-.btn_1 .f_btn {
-  font-size: 16px;
-  line-height: 25px;
-  color: white;
+.btn_1 {
+  width: 250px;
+  height: 55px;
   background-color: #f53838;
-  padding: 17.5px 77.5px;
   border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.f_btn {
+  font-size: 16px;
+  color: white;
   font-weight: 700;
+  text-align: center;
 }
 .container_2 {
   display: flex;
